@@ -59,4 +59,5 @@ setelah selesai maka simpan dengan cara ```ctrl+x``` kemudian ```Y``` dan ```ent
 untuk melihat perubahan kita bisa coba jalankan misal di katakoda bisa dengan ```klik +``` atau newtab dan pilih ```view HTTP port 80 on host 1``` maka akan membuka tab baru dan rubah port menjadi ```30305``` dan klik display port maka akan terlihat
 
 ![result edit()](https://github.com/zthomaz/tugas-workshop1/blob/master/result_edit.png)
+
 maka akan berubah sesuai dengan apa yang sudah kita rubah tadi tetapi apabila kita hapus dan coba buka kembali data akan hilang karena aplikasi ini bersifat stateless
